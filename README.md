@@ -1,7 +1,8 @@
 # English Flashcards SPA — Тестовое задание ГК «Калуга Астрал»
 
 ## Live Demo
-- **Production URL:** [https://test-task-frontend-razrabotchik-javascri-mu3n6tcs.vercel.app](https://test-task-frontend-razrabotchik-javascri-mu3n6tcs.vercel.app)
+- **Production URL:** [https://test-task-frontend-razrabotchik-jav-flame.vercel.app](https://test-task-frontend-razrabotchik-jav-flame.vercel.app)
+- **Deployment URL:** [https://test-task-frontend-razrabotchik-javascri-mu3n6tcs-ke3oax94x.vercel.app](https://test-task-frontend-razrabotchik-javascri-mu3n6tcs-ke3oax94x.vercel.app)
 - **Тестовые учетные данные:**
   - Логин: `admin`
   - Пароль: `admin`
